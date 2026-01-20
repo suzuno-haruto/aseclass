@@ -12,3 +12,4 @@ screen.
 memo.
  - This line is added in Lesson 3.
  - This line is added in Lesson 4.
+ - This line is added in Lesson 6.
